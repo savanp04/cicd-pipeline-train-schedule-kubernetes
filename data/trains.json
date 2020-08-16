@@ -7,13 +7,13 @@
 					"station": "Sycamore",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"departure": "12:15pm"
 				},
 				{
 					"station": "Pine",
 					"status": "ON-TIME",
 					"arrival": "1:00pm",
-					"departure": "1:10pm"
+					"departure": "1:15pm"
 				}
 			]
 		},
@@ -41,13 +41,13 @@
 			"stops": [
 				{
 					"station": "Sycamore",
-					"status": "ON-TIME",
+					"status": "DELAYED",
 					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"departure": "12:12pm"
 				},
 				{
 					"station": "Cypress",
-					"status": "DELAYED",
+					"status": "ON-TIME",
 					"arrival": "1:00pm",
 					"departure": "1:10pm",
 					"delayedArrival": "1:07pm",
